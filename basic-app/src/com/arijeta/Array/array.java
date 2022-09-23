@@ -5,7 +5,7 @@ public class array {
         public static void main(String[] args) {
             //数组大小
             int size=10;
-            //定义数组
+            //定义动态数组
             double[] myList = new double[size];
             myList[0]=5.6;
             myList[1] = 4.5;
